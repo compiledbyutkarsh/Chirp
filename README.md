@@ -24,26 +24,29 @@ A professional Twitter clone built with the MERN stack featuring real-time feed,
 ## 🚀 Setup & Run
 
 ### 1. Clone
-\`\`\`bash
+```bash
 git clone https://github.com/compiledbyutkarsh/Chirp.git
 cd Chirp
-\`\`\`
+```
+
 ### 2. Backend
-\`\`\`bash
+```bash
 cd server
 npm install
 npm run dev
-\`\`\`
+```
+
 ### 3. Frontend
-\`\`\`bash
+```bash
 cd client
 npm install
 npm run dev
-\`\`\`
+```
+
 ### 4. Open
-\`\`\`
+```
 http://localhost:5173
-\`\`\`
+```
 
 ---
 Built by [compiledbyutkarsh](https://github.com/compiledbyutkarsh)
